@@ -1,0 +1,6 @@
+node_modules/
+.next/
+.nabd-build/
+.env*
+!.env.example
+*.tsbuildinfo
